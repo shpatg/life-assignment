@@ -1,3 +1,8 @@
+# Added Feature
+
+I added a button that will generate a random number when clicked.
+Number will be between 0 and 9.
+
 # GIT Assignment
 
 In a group of twos develop e feature from [this repo](https://github.com/shpatg/life-assignment) and merge the feature to the develop branch.
