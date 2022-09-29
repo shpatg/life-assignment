@@ -1,0 +1,1 @@
+We(Florent Reçica and Fatlum Maliqi) develop a feature(colorful-bg) in javascript about changing the background color of the body every 500ms
