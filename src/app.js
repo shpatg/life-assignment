@@ -2,10 +2,15 @@
 import "bootstrap";
 import "./style.css";
 
-import "./assets/img/rigo-baby.jpg";
+
 import "./assets/img/4geeks.ico";
 
-window.onload = function() {
-  //write your code here
+window.onload = function () {
+  document.body.style.backgroundColor = "red";
   console.log("Hello Rigo from the console!");
 };
+
+
+function changeStyle(){
+  var element = document.getElementById("myDiv");
+  element.style.backgroundColor = "#00FF00";}
