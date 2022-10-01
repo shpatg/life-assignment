@@ -14,3 +14,6 @@ window.onload = function () {
 function changeStyle(){
   var element = document.getElementById("myDiv");
   element.style.backgroundColor = "#00FF00";}
+
+  var getbyid = document.getElementById("divbyme");
+  getbyid.style.display = "none";
