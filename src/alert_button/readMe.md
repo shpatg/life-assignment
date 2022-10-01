@@ -1,0 +1,1 @@
+A simple button, which when it's clicked shows an alert with a message!
