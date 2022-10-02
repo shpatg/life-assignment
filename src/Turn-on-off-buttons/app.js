@@ -13,3 +13,6 @@ window.onload = function() {
 function bulb_on(){
     document.getElementById('bulb').src='./assets/img/2.png';
 }
+function bulb_off() {
+  document.getElementById('bulb').src = './assets/img/1.png';
+}
