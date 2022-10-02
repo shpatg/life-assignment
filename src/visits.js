@@ -14,3 +14,8 @@ window.addEventListener('load', () => {
     console.log('Hello');
 
 })
+function reset(){
+    visits=0;
+    storage.visits=visits;
+    visitNr.innerHTML=visits;
+}

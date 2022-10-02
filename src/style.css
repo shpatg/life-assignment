@@ -1,1 +1,8 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+*{
+    background-color: rgb(238, 215, 187);
+}
+footer{
+    background-color: bisque;
+    font-size: larger;
+    border: 1px brown solid;
+}
