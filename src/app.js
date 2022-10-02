@@ -1,11 +1,9 @@
-/* eslint-disable */
-import "bootstrap";
-import "./style.css";
+const btn = document.getElementById('button');
 
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
+btn.addEventListener('click', function onClick(event) {
+  // 👇️ change background color
+  document.body.style.backgroundColor = 'salmon';
 
-window.onload = function() {
-  //write your code here
-  console.log("Hello Rigo from the console!");
-};
+  // 👇️ optionally change text color
+  // document.body.style.color = 'white';
+});
