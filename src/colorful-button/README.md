@@ -1,0 +1,1 @@
+Add a click event listener to the button and when the first time the button is clicked the color changes to grey.
