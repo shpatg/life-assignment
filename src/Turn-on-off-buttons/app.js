@@ -9,3 +9,7 @@ window.onload = function() {
   //write your code here
   console.log("Hello Rigo from the console!");
 };
+
+function bulb_on(){
+    document.getElementById('bulb').src='./assets/img/2.png';
+}
