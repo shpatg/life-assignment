@@ -33,3 +33,5 @@ src
     ...
     |_README.md    
 ```
+Thanks to this function you will be able to get a friendly greeting from our fellow friends Bledar and Fatlinda, and guess what?
+It only takes a refresh on your page to see it popping up on your screen!
