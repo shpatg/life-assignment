@@ -33,3 +33,7 @@ src
     ...
     |_README.md    
 ```
+### Features Hello World
+
+- A function is writen to log hello world when document is loaded
+- Alert when document is loaded

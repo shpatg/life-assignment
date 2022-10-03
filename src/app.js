@@ -7,5 +7,10 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
-  console.log("Hello Rigo from the console!");
+  console.log("Hello Rigo from the console!");\
+  LogHelloWorld();
 };
+
+function LogHelloWorld() {
+  console.log("Hello World");
+}
