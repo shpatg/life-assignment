@@ -34,6 +34,6 @@ src
     |_README.md    
 ```
 
-### Contributors
+### Log Hello World
 
-- Ardit Mullabazi
+- A function is writen to log hello world when document is loaded
