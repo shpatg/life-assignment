@@ -33,3 +33,4 @@ src
     ...
     |_README.md    
 ```
+Feature: New greeting message (changing HTML of a section heading and displaying a message using JavaScript)
