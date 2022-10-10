@@ -1,11 +1,9 @@
-/* eslint-disable */
-import "bootstrap";
-import "./style.css";
+function toggle() {
+  var button = document.getElementById("button");
+  if (button.style.display === "block") {
+      button.style.display = "None"
 
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
-
-window.onload = function() {
-  //write your code here
-  console.log("Hello Rigo from the console!");
-};
+  } else {
+      button.style.display = "Block"
+  }
+}

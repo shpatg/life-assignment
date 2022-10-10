@@ -1,0 +1,1 @@
+Created menu that opens and closes on click.
