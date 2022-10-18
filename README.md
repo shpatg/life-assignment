@@ -1,5 +1,5 @@
 # Added Feature
-I added a paragraph when you click it the color changes.git add .
+I added a paragraph when you click it the color changes.
 
 # GIT Assignment
 
