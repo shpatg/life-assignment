@@ -1,3 +1,6 @@
+# Added Feature
+I added a paragraph when you click it the color changes.git add .
+
 # GIT Assignment
 
 In a group of twos develop e feature from [this repo](https://github.com/shpatg/life-assignment) and merge the feature to the develop branch.
